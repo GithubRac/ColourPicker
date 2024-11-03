@@ -34,15 +34,7 @@ A Chrome extension that allows you to pick colors from any webpage. Simply hover
 
 ## Files Structure
 
-├── manifest.json # Extension configuration
-├── popup.html # Popup interface
-├── popup.js # Popup functionality
-├── contentScript.js # Color picking logic
-├── styles.css # Additional styles
-└── images/ # Extension icons
-    ├── icon16.png
-    ├── icon48.png
-    └── icon128.png
+All the files are in the same directory, except the images are in the images folder within the directory.
 
 
 ## Permissions Required
