@@ -1,4 +1,5 @@
 <img width="180" alt="Screenshot_2" src="https://github.com/user-attachments/assets/38d1df1b-222f-496d-9e91-4e24a9cf1a9d">
+
 # Web Color Picker v0.1.0
 
 A Chrome extension that allows you to pick colors from any webpage. Simply hover over any element to preview its color, press SPACE to capture it, and the color will be automatically copied to your clipboard and saved to your history.
