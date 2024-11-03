@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      width: 200px;
+      padding: 10px;
+    }
+    button {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+    }
+    #colorHistory {
+      margin-top: 10px;
+      display: none; /* Hide by default */
+    }
+    .color-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 5px;
+    }
+    .color-preview {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+      border: 1px solid #ccc;
+    }
+    .show {
+      display: block !important;
+    }
+  </style>
+</head>
+<body>
+  <button id="activatePicker">Start Color Picker</button>
+  <button id="toggleHistory">Show Saved Colors</button>
+  <div id="colorHistory"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
