@@ -12,14 +12,16 @@ A Chrome extension that allows you to pick colors from any webpage. Simply hover
 - Keyboard shortcuts for better control
 
 ## Installation
+Packed version:
+1. For easy installation drag the .crx file to your browser and click add extension.
 
+Unpacked installation:
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right
 4. Click "Load unpacked" and select the extension directory
 
 ## How to Use
-
 1. Click the extension icon in your browser toolbar
 2. Click "Start Color Picker" to activate
 3. Hover over any element to preview its color
